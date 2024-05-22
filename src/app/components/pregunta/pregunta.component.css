@@ -1,0 +1,17 @@
+.list-group-item{
+  cursor: pointer;
+}
+
+.badge{
+  float: right;
+}
+
+.incorrect{
+  color: rgb(240, 145, 145);
+  font-size: 20px;
+}
+
+.correct{
+  color: rgb(122, 182, 32);
+  font-size: 20px;
+}
